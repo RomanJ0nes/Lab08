@@ -11,7 +11,7 @@ public class CustomList {
     }
 
     public void addCity(City city) {
-        return;
+        cities.add(city);
     }
 
     // Will be implemented later using TDD (leave blank for now)
